@@ -6,7 +6,7 @@ In the late 21st Century, Respawn stands as the worlds most popular esport, an i
 
 Respawn is big business and the stakes are high: fame and fortune comes to the winners, but the game can take its toll on the players. While the neural interface provides a realistic experience, this also means that players feel the pain of death repeatedly throughout a match and many suffer ongoing effects from the game.
 
-You've put in the practice, you've put together a team, you've raised your entry fee. Enter your team and make a name for yourself or die trying. A new season of Respawn is about to begin.
+You've put in the practice, you've put together a team, you've raised your entry fee. It's time to make a name for yourself or die trying. A new season of Respawn is about to begin.
 
 ## Module Rules
 
