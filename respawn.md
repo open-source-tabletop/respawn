@@ -2,6 +2,12 @@
 
 Respawn is a class based team skirmish, with influences from online multiplayer shooters.
 
+In the late 21st Century, Respawn stands as the worlds most popular esport, an immersive virtual game taking the ancient art of bloodsports to a new high as teams engage in bloody virtual deathmatches. Beyond realistic, players are connected to the game through a revolutionary neural interface, allowing a level of realism previously unheard of. For spectators, they experience not just a visual spectacle, they are hooked directly into the adrenaline, the excitement, and even the pain, of the players. While the death may be virtual, it feels like the real thing.
+
+Respawn is big business and the stakes are high: fame and fortune comes to the winners, but the game can take its toll on the players. While the neural interface provides a realistic experience, this also means that players feel the pain of death repeatedly throughout a match and many suffer ongoing effects from the game.
+
+You've put in the practice, you've put together a team, you've raised your entry fee. Enter your team and make a name for yourself or die trying. A new season of Respawn is about to begin.
+
 ### Playing Respawn
 
 Respawn uses the Cadence Wargame System core rules, which can be found at [Cadence.Games](https://cadence.games).
@@ -15,6 +21,10 @@ When a character is killed in Respawn, they are removed from the game and placed
 ### Reactions
 
 Some of the character perks allow them to perform Reactions. These work the same as ability actions taken during their activation but happen during another characters activation. Simply follow the rules provided for each reaction to know when and how these work.
+
+> Tickets On Sale this Friday! This match promises to be a brutal settling of old score as Team Inferno goes up against Team ROC in a long awaited Respawn Rematch. the winner will proceed to the Xenon Tier for the 2088 fall season.
+>
+> **FragFeed Ad**
 
 ### Special Terrain
 
@@ -46,6 +56,10 @@ To collect a pick-up a character must simply move into contact with it during th
 | 4 | Shield | The character gains +1 to their rolls to Counter damage until the end of the round. |
 | 5 | Speed | The character gains +2 to it's Movement until the end of the round. |
 | 6 | Damage | The characters weapons have +1 Damage and +1 Piercing until the end of the round. |
+
+> ...conceived by gaming pioneers Adam Jensen and Lara Hawthorne, Respawn would revolutionize the gaming landscape. The world embraced Respawn, propelling it from a bold idea to a global gaming sensation that would eventually surpass the viewership of traditional team sports...
+>
+> **Virtually Unstoppable, A History of Respawn**
 
 ### Objectives
 
@@ -260,6 +274,14 @@ The following special rules are used in games of Respawn.
 | Stun | Characters that lose a Hit Point to an attack from this weapon also lose 1 Command Point. |
 | Impact | Each successful hit from this weapon causes the target to move directly away from the attacker by 1 inch, in addition to any damage it may cause. This move stops immediately if the character comes into contact with any other characters or terrain. |
 | Stasis | If a character loses any hit points to a Stasis weapon it may not move or advance for the remainder of the round. |
+
+>Unleash your potential with the Respawn Elite Training Course! Apply for your place today.
+>
+> Dive into immersive VR rigs and seize the chance to be scouted by major teams. Join us, rise above the competition, and turn your gaming dreams into reality.
+>
+> Enroll today, level up your skills, and become the champion you were born to be! Low interest loans available for tuition costs.
+>
+> **SkillForge Vancouver Ad**
 
 ## Missions
 
