@@ -16,9 +16,15 @@ Respawn uses the Cadence Wargame System core rules, which can be found at [Caden
 
 Respawn is best played on a 2ft x 3ft or similar sized area. Each game of Respawn lasts for 4 rounds. Models in Respawn are referred to throughout as **Characters**.
 
-### Respawn
+### Killing Characters 
 
-When a character is killed in Respawn, they are removed from the game and placed back in reserve and must be redeployed during the next round. When the character redeploys they do so with their original weapons, including one use weapons and equipment, and full hit points.
+When a character is killed in Respawn, instead of being removed from the game they may optionally be marked as Downed. You may place a token next to or in place of the model or place it on its side to show this. A Downed character may not be activated unless it is revived, it may be revived by a friendly character using the Revive action. At the end of each round, Downed characters are removed from the game as detailed below.
+
+If you do not wish your character to be Downed they are instead removed from the game and placed back in reserve and must be redeployed during the next round. When the character redeploys they do so with their original weapons, including one use weapons and equipment, and full hit points.
+
+### Action: Revive (1 Command Point)
+
+You may attempt to revive a Downed friendly character so long as you are within 3 inches of that character and there are no enemy characters within 3 inches of either character. Roll a d6 and add the Downed characters remaining command points to the roll, on a roll of 4 or more te character is restored to normal with 1 hit point. Each attempt to revive a character also reduces any Command Points they may have remaining by 1.
 
 ### Reactions
 
