@@ -8,6 +8,8 @@ Respawn is big business and the stakes are high: fame and fortune comes to the w
 
 You've put in the practice, you've put together a team, you've raised your entry fee. Enter your team and make a name for yourself or die trying. A new season of Respawn is about to begin.
 
+## Module Rules
+
 ### Playing Respawn
 
 Respawn uses the Cadence Wargame System core rules, which can be found at [Cadence.Games](https://cadence.games).
@@ -21,10 +23,6 @@ When a character is killed in Respawn, they are removed from the game and placed
 ### Reactions
 
 Some of the character perks allow them to perform Reactions. These work the same as ability actions taken during their activation but happen during another characters activation. Simply follow the rules provided for each reaction to know when and how these work.
-
-> Tickets On Sale this Friday! This match promises to be a brutal settling of old score as Team Inferno goes up against Team ROC in a long awaited Respawn Rematch. the winner will proceed to the Xenon Tier for the 2088 fall season.
->
-> **FragFeed Ad**
 
 ### Special Terrain
 
@@ -57,10 +55,6 @@ To collect a pick-up a character must simply move into contact with it during th
 | 5 | Speed | The character gains +2 to it's Movement until the end of the round. |
 | 6 | Damage | The characters weapons have +1 Damage and +1 Piercing until the end of the round. |
 
-> ...conceived by gaming pioneers Adam Jensen and Lara Hawthorne, Respawn would revolutionize the gaming landscape. The world embraced Respawn, propelling it from a bold idea to a global gaming sensation that would eventually surpass the viewership of traditional team sports...
->
-> **Virtually Unstoppable, A History of Respawn**
-
 ### Objectives
 
 Respawn uses Control Objectives and Flag Objectives.
@@ -76,6 +70,14 @@ Flags are a special type of objective made up of two components, a flag marker a
 Flag markers can be picked up by a character from an opposing team simply by moving across it. Once a character is carrying a flag they may not voluntarily put it back down. They may also only make Move or Advance actions. A flag is scored when the character carrying it moves into contact with their own base. At which point it is removed from the character and placed on the enemy base, at the end of the round it is returned to its original base.
 
 If a character is killed while carrying a flag it is dropped where the character was last positioned. A member of the opposing team may pick the flag up from where it lies and continue to carry it to their base. If a member of the same team touches the flag it is immediately placed back at their base.
+
+---
+
+> Tickets On Sale this Friday! This match promises to be a brutal settling of old scores as Team Inferno goes up against Team ROC in a long awaited Respawn Rematch. the winner will proceed to the Xenon Tier for the 2088 fall season.
+>
+> **FragFeed Ad**
+
+---
 
 ## Creating Your Team
 
@@ -275,6 +277,8 @@ The following special rules are used in games of Respawn.
 | Impact | Each successful hit from this weapon causes the target to move directly away from the attacker by 1 inch, in addition to any damage it may cause. This move stops immediately if the character comes into contact with any other characters or terrain. |
 | Stasis | If a character loses any hit points to a Stasis weapon it may not move or advance for the remainder of the round. |
 
+---
+
 >Unleash your potential with the Respawn Elite Training Course! Apply for your place today.
 >
 > Dive into immersive VR rigs and seize the chance to be scouted by major teams. Join us, rise above the competition, and turn your gaming dreams into reality.
@@ -282,6 +286,8 @@ The following special rules are used in games of Respawn.
 > Enroll today, level up your skills, and become the champion you were born to be! Low interest loans available for tuition costs.
 >
 > **SkillForge Vancouver Ad**
+
+---
 
 ## Missions
 
@@ -338,3 +344,9 @@ One Control objective is placed in the center of the table. The battlefield shou
 
 - Each team scores 7 Victory Points if they control the central objective at the end of a round.
 - Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points if they are within 3 inches of the control objective.
+
+---
+
+> ...conceived by gaming pioneers Adam Jensen and Lara Hawthorne, Respawn would revolutionize the gaming landscape. The world embraced Respawn, propelling it from a bold idea to a global gaming sensation that would eventually surpass the viewership of traditional team sports...
+>
+> **Virtually Unstoppable, A History of Respawn**
