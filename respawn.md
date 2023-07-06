@@ -1,18 +1,16 @@
 # Respawn
 
-Respawn is a class based team skirmish, with influences from online multiplayer shooters.
-
-In the late 21st Century, Respawn stands as the worlds most popular esport, an immersive virtual game taking the ancient art of bloodsports to a new high as teams engage in bloody virtual deathmatches. Beyond realistic, players are connected to the game through a revolutionary neural interface, allowing a level of realism previously unheard of. For spectators, they experience not just a visual spectacle, they are hooked directly into the adrenaline, the excitement, and even the pain, of the players. While the death may be virtual, it feels like the real thing.
+In the late 21st Century an immersive virtual reality deathmatch game, called Respawn, has become the worlds most popular entertainment - taking the ancient art of bloodsports to new heights. Beyond realistic, players are connected to the game through a neural interface, allowing a level of realism previously unheard of. For spectators, they experience not just a visual spectacle, they are hooked directly into the adrenaline, the excitement, and even the pain, of the players.
 
 Respawn is big business and the stakes are high: fame and fortune comes to the winners, but the game can take its toll on the players. While the neural interface provides a realistic experience, this also means that players feel the pain of death repeatedly throughout a match and many suffer ongoing effects from the game.
 
-You've put in the practice, you've put together a team, you've raised your entry fee. It's time to make a name for yourself or die trying. A new season of Respawn is about to begin.
+You've put in the practice. You've put together a team. You've raised your entry fee. Now it's time to make a name for yourself or die trying. A new season of Respawn is about to begin.
 
 ## Module Rules
 
 ### Playing Respawn
 
-Respawn uses the Cadence Wargame System core rules, which can be found at [Cadence.Games](https://cadence.games).
+Respawn is a small team skirmish game, requiring only 3 models per player, with influences from popular online FPS games. Respawn uses the Cadence Wargame System core rules, which can be found at [Cadence.Games](https://cadence.games).
 
 Respawn is best played on a 2ft x 3ft or similar sized area. Each game of Respawn lasts for 4 rounds. Models in Respawn are referred to throughout as **Characters**.
 
@@ -77,17 +75,9 @@ Flag markers can be picked up by a character from an opposing team simply by mov
 
 If a character is killed while carrying a flag it is dropped where the character was last positioned. A member of the opposing team may pick the flag up from where it lies and continue to carry it to their base. If a member of the same team touches the flag it is immediately placed back at their base.
 
----
-
-> Tickets On Sale this Friday! This match promises to be a brutal settling of old scores as Team Inferno goes up against Team ROC in a long awaited Respawn Rematch. the winner will proceed to the Xenon Tier for the 2088 fall season.
->
-> **FragFeed Ad**
-
----
-
 ## Creating Your Team
 
-Games of Respawn consist of 2 or more teams of 3 characters, if you want to play larger games you can assemble your teams in groups of 3 following the rules below.
+Games of Respawn consist of 2 or more teams of 3 characters, if you want to play larger games you can assemble your teams in groups of 3 following the rules below. Teams in Respawn often create their own unique look, able to customise their appearance, weapons, and equipment as they please, any miniatures can be used so long as both players are using miniatures approximately the same size.
 
 To create a team you create 3 characters following these steps:
 
@@ -285,18 +275,6 @@ The following special rules are used in games of Respawn.
 | Impact | Each successful hit from this weapon causes the target to move directly away from the attacker by 1 inch, in addition to any damage it may cause. This move stops immediately if the character comes into contact with any other characters or terrain. |
 | Stasis | If a character loses any hit points to a Stasis weapon it may not move or advance for the remainder of the round. |
 
----
-
->Unleash your potential with the Respawn Elite Training Course! Apply for your place today.
->
-> Dive into immersive VR rigs and seize the chance to be scouted by major teams. Join us, rise above the competition, and turn your gaming dreams into reality.
->
-> Enroll today, level up your skills, and become the champion you were born to be! Low interest loans available for tuition costs.
->
-> **SkillForge Vancouver Ad**
-
----
-
 ## Missions
 
 ### Team Deathmatch
@@ -352,9 +330,3 @@ One Control objective is placed in the center of the table. The battlefield shou
 
 - Each team scores 7 Victory Points if they control the central objective at the end of a round.
 - Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points if they are within 3 inches of the control objective.
-
----
-
-> ...conceived by gaming pioneers Adam Jensen and Lara Hawthorne, Respawn would revolutionize the gaming landscape. The world embraced Respawn, propelling it from a bold idea to a global gaming sensation that would eventually surpass the viewership of traditional team sports...
->
-> **Virtually Unstoppable, A History of Respawn**
