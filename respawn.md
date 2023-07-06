@@ -12,7 +12,7 @@ You've put in the practice. You've put together a team. You've raised your entry
 
 Respawn is a small team skirmish game, requiring only 3 models per player, with influences from popular online FPS games. Respawn uses the Cadence Wargame System core rules, which can be found at [Cadence.Games](https://cadence.games).
 
-Respawn is best played on a 2ft x 3ft or similar sized area. Each game of Respawn lasts for 4 rounds. Models in Respawn are referred to throughout as **Characters**.
+Respawn is best played on a 2ft x 3ft or similar sized area and should include plenty of line of sight blocking terrain. Each game of Respawn lasts for 4 rounds. Models in Respawn are referred to throughout as **Characters**.
 
 ### Killing Characters 
 
@@ -275,7 +275,9 @@ The following special rules are used in games of Respawn.
 | Impact | Each successful hit from this weapon causes the target to move directly away from the attacker by 1 inch, in addition to any damage it may cause. This move stops immediately if the character comes into contact with any other characters or terrain. |
 | Stasis | If a character loses any hit points to a Stasis weapon it may not move or advance for the remainder of the round. |
 
-## Missions
+## Exhibition Games
+
+Exhibition games arw one off matches played between two evenly matched teams. Simply determine which mission you are playing randomly before setting up ypur battlefield.
 
 ### Team Deathmatch
 
@@ -330,3 +332,7 @@ One Control objective is placed in the center of the table. The battlefield shou
 
 - Each team scores 7 Victory Points if they control the central objective at the end of a round.
 - Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points if they are within 3 inches of the control objective.
+
+## Season Games
+
+Every year, hundreds of teams enter the new season of matches, hopi
