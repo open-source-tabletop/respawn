@@ -1,10 +1,6 @@
 # Respawn
 
-In the late 21st Century an immersive virtual reality deathmatch game, called Respawn, has become the worlds most popular entertainment - taking the ancient art of bloodsports to new heights. Beyond realistic, players are connected to the game through a neural interface, allowing a level of realism previously unheard of. For spectators, they experience not just a visual spectacle, they are hooked directly into the adrenaline, the excitement, and even the pain, of the players.
 
-Respawn is big business and the stakes are high: fame and fortune comes to the winners, but the game can take its toll on the players. While the neural interface provides a realistic experience, this also means that players feel the pain of death repeatedly throughout a match and many suffer ongoing effects from the game.
-
-You've put in the practice. You've put together a team. You've raised your entry fee. Now it's time to make a name for yourself or die trying. A new season of Respawn is about to begin.
 
 ## Module Rules
 
