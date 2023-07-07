@@ -327,6 +327,6 @@ One Control objective is placed in the center of the table. The battlefield shou
 - Each team scores 7 Victory Points if they control the central objective at the end of a round.
 - Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points if they are within 3 inches of the control objective.
 
-## Season Games
+## Season Play
 
-Every year, hundreds of teams enter the new season of matches, hopi
+Respawn can be played in one-off matches, or you can play over multiple games, with multiple players, representing a whole season of games. This adds additional perks for your teams that they can earn through their success and a bigger challenge in competing not just for a single victory, but to become the Season Champion.
