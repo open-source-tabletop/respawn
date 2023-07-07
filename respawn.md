@@ -1,12 +1,10 @@
 # Respawn
 
-Respawn is the greatest sport in the Multiverse, 
+Respawn is a tabletop team skirmish game, requiring only 3 miniatures per player, with influences from popular online FPS games. Each team competes in Deathmatch, Capture the Flag, and King of the Hill type missions, with characters respawning each round to continue the fight. A range of character classes, with weapon, equipment, and perk choices, let you create a unique team - using any style of miniatures you like.
 
-## Module Rules
+Respawn uses the Cadence Wargame System core rules, which can be found at [Cadence.Games](https://cadence.games).
 
-### Playing Respawn
-
-Respawn is a small team skirmish game, requiring only 3 models per player, with influences from popular online FPS games. Respawn uses the Cadence Wargame System core rules, which can be found at [Cadence.Games](https://cadence.games).
+## Playing Respawn
 
 Respawn is best played on a 2ft x 3ft or similar sized area and should include plenty of line of sight blocking terrain. Each game of Respawn lasts for 4 rounds. Models in Respawn are referred to throughout as **Characters**.
 
