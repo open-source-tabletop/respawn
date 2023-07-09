@@ -12,5 +12,5 @@ You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to pla
 Respawn is looking for contributors and playtesters and you can get involved in the following ways:
 
 - [Discuss the game on the Cadence Wargame System Discord](https://discord.gg/RNW3Q9kF)
-- [Report issues with the game module on Github](https://discord.gg/RNW3Q9kF)
+- [Report issues with the game module on Github](https://github.com/open-source-tabletop/respawn/issues)
 - Create a pull request with suggested changes on Github
