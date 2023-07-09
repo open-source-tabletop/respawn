@@ -8,7 +8,7 @@ You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to pla
 
 ## Playing Respawn
 
-Respawn is best played on a 2ft x 3ft or similar sized area and should include plenty of line of sight blocking terrain. Each game of Respawn lasts for 4 rounds. Models in Respawn are referred to throughout as **Characters**.
+Respawn is best played on a 2ft x 3ft or similar sized area and should include plenty of line of sight blocking terrain. Each game of Respawn lasts for 5 rounds. Models in Respawn are referred to throughout as **Characters**.
 
 ### Killing Characters 
 
