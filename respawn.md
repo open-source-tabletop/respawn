@@ -2,7 +2,9 @@
 
 Respawn is a tabletop team skirmish game, requiring only 3 miniatures per player, with influences from popular online FPS games. Each team competes in Deathmatch, Capture the Flag, and King of the Hill type missions, with characters respawning each round to continue the fight. A range of character classes, with weapon, equipment, and perk choices, let you create a unique team - using any style of miniatures you like.
 
-Respawn uses the Cadence Wargame System core rules, which can be found at [Cadence.Games](https://cadence.games).
+You will need the [Cadence Core Rules](https://Cadence.Games/core-rules/) to play this game. If you would like to contribute to the development of Respawn please [visit the Respawn Github Project](https://github.com/open-source-tabletop/respawn).
+
+---
 
 ## Playing Respawn
 
@@ -277,11 +279,11 @@ Exhibition games arw one off matches played between two evenly matched teams. Si
 
 #### Battlefield
 
-The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
+The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll 2d6 and choose their entry point number from one of those dice results.
 
 #### Objectives
 
-Each team scores 1 Victory Point each time they kill a character on an enemy team. On the last round this is increased to 2 Victory Points.
+Each team scores 1 Victory Point each time they kill a character on an enemy team. The first team to score 6 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.
 
 -----
 
@@ -289,14 +291,16 @@ Each team scores 1 Victory Point each time they kill a character on an enemy tea
 
 #### Battlefield
 
-Players should set up the table and roll off to choose one of the short table edges. Each player should then place a flag base somewhere 6 inches from their table edge and at least 6 inches from any other table edge. The player that choose their table edge places their flag base first.
+Players should set up the table and roll off to choose one of the short table edges each. Each player should then place a flag base somewhere 6 inches from their table edge and at least 6 inches from any other table edge. The player that choose their table edge places their flag base first.
 
 Each player then places 3 entry points on their own table edge numbered 1 - 3. Any time they bring one of their characters onto the battlefield from reserve the player must roll a d3 (roll a d6 and divide by 2 rounding up) to determine which entry point they will use.
 
 #### Objectives
 
-- Each team scores 8 Victory Points each time they score a flag objective.
-- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points on the last round.
+- Each team scores 5 Victory Points each time they score a flag objective.
+- Each team scores 1 Victory Point each time they kill an enemy character.
+
+The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.
 
 -----
 
@@ -304,15 +308,17 @@ Each player then places 3 entry points on their own table edge numbered 1 - 3. A
 
 #### Battlefield
 
-Players divide the battlefield into quarters and take it in turns to place a control objective in each of the quarters, with at least 9 inches between each objective.
+The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll 2d6 and choose their entry point number from one of those dice results.
 
-The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
+Players divide the battlefield into quarters and take it in turns to place a control objective in each of the quarters, with at least 6 inches between each objective and at least 4 inches from any table edge.
 
 #### Objectives
 
-- Each team scores 6 Victory Point for each Control Point they have secured at the end of each round.
-- Each team scores 2 Victory Points each time they secure a Control Point that was previously controlled by the other player.
-- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points in the last round.
+- Each team scores 5 Victory Point for each Control Point they have secured at the end of each round.
+- Each team scores 1 Victory Points each time they secure a Control Point that was previously controlled by the other player.
+- Each team scores 1 Victory Point each time they kill an enemy character.
+
+The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.
 
 -----
 
@@ -320,12 +326,14 @@ The battlefield should be set up with 6 entry points spaced randomly around the 
 
 #### Battlefield
 
-One Control objective is placed in the center of the table. The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll a d6 to determine which entry point they will use.
+One Control objective is placed in the center of the table. The battlefield should be set up with 6 entry points spaced randomly around the outside of the battlefield numbered from 1 - 6. Each time a character is brought onto the battlefield from reserve the player must roll 2d6 and choose their entry point number from one of those dice results.
 
 #### Objectives
 
-- Each team scores 7 Victory Points if they control the central objective at the end of a round.
-- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points if they are within 3 inches of the control objective.
+- Each team scores 5 Victory Points if they control the central objective at the end of a round.
+- Each team scores 1 Victory Point each time they kill an enemy character. This is increased to 2 Victory Points if the enemy character is within 3 inches of the control objective.
+
+The first team to reach 15 Victory Points wins the match, or the player with the most Victory Points at the end of Round 5.
 
 ## Season Play
 
