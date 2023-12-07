@@ -1,8 +1,10 @@
 # Respawn: Season 1 - Big Guns
 
+---
+
 This expansion for Respawn provides some optional rules you can add to your games.
 
-### The Big Guns!
+## The Big Guns!
 
 Big Guns are a new type of pick up that can be placed on your battlefield using a suitable marker and following the same rules for placement. Unlike the original pick ups you do not roll to determine the result until a character picks it up. In addition, once a character picks up a Big Gun they immediately perform a free attack action with the weapon then end their activation. If the character has no valid enemy model to target they must instead target a friendly model. If they have no models to target they lose the pick up. All Big Guns are lost after making their attack.
 
@@ -17,15 +19,15 @@ When picking up a Big Gun roll a d6 and consult the list below to see which weap
 |  5   | Spatial Transposer | 32" |  1  |  -  |  -  | Accurate, Swap: If this weapon hits its target, instead of doing damage, the attacker and defender swap positions on the battlefield. The models also swap their hit point and command points. |
 |  6   | Objective Enforcer |6-12"|  1  |  -  |  -  | Instead of making an attack roll this model must target a spot 6-12" away and place an **access** objective marker there, this objective is worth 3 Victory Points. |
 
-### Special Terrain: Energy Barriers
+## Special Terrain: Energy Barriers
 
 Terrain with the Energy Barrier keyword counts as clear terrain for the puroses of movement, however, any line of sight drawn through this terrain counts as blocked.
 
-### New Objectives: Proximity Objectives
+## New Objectives: Proximity Objectives
 
 Proximity objectives are a type of objective that does not need to be secured to be scored. Instead, a proximity objectives are either active or inactive, at the end of any round in which a proximity objective is active, all models within 6 inches of the objective marker score the objective. The mission rules will dictate when a proximity objective is active.
 
-### New Mission: Hot Zone
+## New Mission: Hot Zone
 
 #### Battlefield
 
